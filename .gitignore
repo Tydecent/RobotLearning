@@ -1,0 +1,29 @@
+# Colcon / ROS 2 workspace
+build/
+install/
+log/
+
+# IDE & local tools
+.kagent/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CMake (local build artifacts outside colcon dirs)
+CMakeCache.txt
+CMakeFiles/
