@@ -6,6 +6,8 @@
 - `g1_action_interface.py`：将中文/英文动作说明映射到 Unitree G1 高层预置动作接口。
 - `setup_g1_env.sh`：安装 EasyOCR/OpenCV，并克隆安装 `unitree_sdk2_python`。
 
+配套教学文档：[`模块B-G1高层预置动作机制教学文档.md`](../../docs/模块B-G1高层预置动作机制教学文档.md)。
+
 ## 1. 安装环境
 
 使用脚本一键安装：
