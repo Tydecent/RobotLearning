@@ -27,3 +27,6 @@ Thumbs.db
 # CMake (local build artifacts outside colcon dirs)
 CMakeCache.txt
 CMakeFiles/
+
+# External simulators and SDK checkouts
+third_party/
